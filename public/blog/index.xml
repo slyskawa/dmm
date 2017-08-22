@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on test</title>
+    <link>/localhost/blog/index.xml</link>
+    <description>Recent content in Blogs on test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2017 all rights reserved.</copyright>
+    <lastBuildDate>Mon, 05 Jun 2017 21:47:02 -0400</lastBuildDate>
+    <atom:link href="/localhost/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>myfirstpost</title>
+      <link>/localhost/blog/2017/06/05/myfirstpost/</link>
+      <pubDate>Mon, 05 Jun 2017 21:47:02 -0400</pubDate>
+      
+      <guid>/localhost/blog/2017/06/05/myfirstpost/</guid>
+      <description>&lt;p&gt;This is my first blog post.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

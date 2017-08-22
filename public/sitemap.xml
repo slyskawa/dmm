@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/localhost/blog/2017/06/05/myfirstpost/</loc>
+    <lastmod>2017-06-05T21:47:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/localhost/post/myfirstpost/</loc>
+    <lastmod>2017-06-05T21:44:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/localhost/blog/</loc>
+    <lastmod>2017-06-05T21:47:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/localhost/post/</loc>
+    <lastmod>2017-06-05T21:44:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/localhost/</loc>
+    <lastmod>2017-06-05T21:47:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
